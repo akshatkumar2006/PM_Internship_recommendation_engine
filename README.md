@@ -100,16 +100,6 @@ The following diagram explains how our AI-powered Internship Recommendation Syst
 - **Long-term** → Builds an equitable, future-ready workforce  
 - **Social Impact** → Democratizes access to career opportunities across rural & urban India  
 
----
-
-## 👥 Team – Code Redz  
-
-- Akshat Kumar – Backend & Machine Learning  
-- Kanak Bhardwaj – Backend & Machine Learning  
-- Ayush Chaudhary – Frontend & Designing  
-- Harshit Bhardwaj – Frontend & Designing  
-- Dev Chaudhary – Frontend & Designing  
-- Akash Upadhyay – Dataset Collection  
 
 ---
 
